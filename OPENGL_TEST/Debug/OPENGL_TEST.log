@@ -1,0 +1,4 @@
+﻿  Main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OPENGL_TEST.vcxproj -> c:\users\jessi\documents\visual studio 2015\Projects\OPENGL_TEST\Debug\OPENGL_TEST.exe
+  OPENGL_TEST.vcxproj -> c:\users\jessi\documents\visual studio 2015\Projects\OPENGL_TEST\Debug\OPENGL_TEST.pdb (Full PDB)
